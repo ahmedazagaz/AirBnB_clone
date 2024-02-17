@@ -1,1 +1,1 @@
-Web Static
+Web-Static
